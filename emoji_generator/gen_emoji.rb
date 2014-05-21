@@ -67,6 +67,8 @@ cheatsheet do
   
   #{emoji_cheats}
   
+  notes 'https://bitbucket.org/grumdrig/emoji-list/ https://github.com/arvida/emoji-cheat-sheet.com https://github.com/iamcal/emoji-data'
+  
 end
 CHEATSHEET
 
